@@ -3,3 +3,6 @@ first git github
 --> git status
 --> git add .
 --> git commit -m "test for reason"
+--> git log ဘယ်လုပ်ထားတာ ပြန်ကြည့်တာ
+--> git log --oneline ဘယ်လုပ်ထားတာတစ်ကြောင်းထဲပြန်ကြည့်တာ ပြန်ကြည့်တာ
+--> git revert  ရှေ့တိုးနောက်ဆုပ် လုပ်လို့ရပါတယ်
